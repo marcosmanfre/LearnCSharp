@@ -31,6 +31,11 @@ public class Exercicio1
         Console.WriteLine("Separador decimal invariant culture " + medida.ToString("F3", CultureInfo.InvariantCulture));
 
 
+        int a  = 10;
+        int b = ++a;
+        Console.WriteLine(a);
+        Console.WriteLine(b);
+
     }
 
 }
