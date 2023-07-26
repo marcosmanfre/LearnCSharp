@@ -37,6 +37,11 @@ public class Exercicio1
         Console.WriteLine(b);
 
         int teste = 3 + 4 * 2;
+        Console.WriteLine(teste);
+
+
+
+
 
 
     }
