@@ -12,6 +12,7 @@ namespace Dados
             string z = Console.ReadLine();
 
             string s = Console.ReadLine();
+
             string[] v = s.Split(' ');
             string a = v[0];
             string b = v[1];
@@ -22,6 +23,10 @@ namespace Dados
             Console.WriteLine(x);
             Console.WriteLine(y);
             Console.WriteLine(z);
+            Console.WriteLine(a);
+            Console.WriteLine(b);
+            Console.WriteLine(c);
+
 
         }
     }
